@@ -4,7 +4,6 @@ This is an Extremely Simple Introduction to Javascript and Jquery.
 
 ## Abstract
 
-![Date](https://img.shields.io/badge/date/:timestamp)
 ![Github Project](https://img.shields.io/badge/DBMS-project-yellowgreen.svg)
 ![Open Source Programming](https://img.shields.io/badge/open--source-programming-ff69b4.svg)
 
