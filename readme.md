@@ -1,6 +1,6 @@
 # Slideshow
 
-This is an Extremely Simple Introduction to Javascript and Jquery.
+This is an Extremely Simple Introduction to Javascript and Jquery -- a slideshow.
 
 ## Abstract
 
